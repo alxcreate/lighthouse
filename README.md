@@ -6,7 +6,6 @@ Role for install Lighthouse
 Role Variables
 --------------
 
-
 | vars            | description                      |
 |-----------------|----------------------------------|
 | lighthouse_repo | Lighthouse's version for install |
@@ -24,6 +23,7 @@ License
 -------
 
 MIT
+
 Author Information
 ------------------
 
